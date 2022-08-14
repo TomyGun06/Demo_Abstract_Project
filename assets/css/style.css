@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none!important;
+      
+}
+ul{
+    list-style: none ;
+}
+
+.header_left{
+ display: flex;
+ flex-direction: row;
+ 
+ 
+
+
+}
+.Help{
+position: relative;
+justify-content: center;
+align-items: center;
+display: flex;
+text-align: left;
+
+}
+a{
+    color: white!important;
+    justify-content: left!important;
+}
+.header_right{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    padding: 10px ;
+}
+.Submit{
+
+    width: 150px;
+    height: 35px;
+    border-color: white!important;
+    border-width: 2px!important;
+    border-radius: 7px;
+    background-color: black;
+    position: relative;
+    left: 340px;
+    color: white;
+    padding-right: 15px;
+    
+    
+    margin-right: 10px;
+}
+.Sign{
+    display: flex;
+    border-radius: 10px;
+    
+    background-color: #4C5FD5 ;
+    border-color: #4C5FD5;
+    height: 35px;
+    width: 100px;
+    position: relative;
+    left: 350px;
+    align-items: center;
+   justify-content: space-around;
+    
+}
+.Middle{
+    background-color: #dadbf1;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    height: 300px;
+
+}
+label{
+    text-decoration: solid;
+     font-size: 50px;
+     position: relative;
+     left: 170px;
+
+}
+.right_arrow{
+    position: absolute;
+    
+    top: 240px;
+    right: 610px;
+}
+#site-search{
+    justify-content: center;
+    position: relative;
+    height: 50px;
+    width: 400px;
+    top: 150px;
+    right:300px ;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: rgb(1, 1, 1);
+}
+
+
+
+
+    
